@@ -22,16 +22,22 @@ How does replacing the ninth graders' math and reading scores affect Thomas High
 #How does replacing 9th grade scores affect the following:
 
 #math and reading scores by grade
+![mathbygrade](math_grade.png)
+![readingbygrade](reading_grade.png)
 
 #Scores by school spending
+![scoresbyspending](scores_spending.png)
 
 #Scores by school size
+![scoresbysize](scores_size.png)
 
 #Scores by school type
+![scoresbytype](scores_type.png)
 
 #Summary
+According to our data, there have been some major changes when we compare the school district analyses before and after the ninth grade Thomas High School students' grades have been replaced with NaNs. Previously, Thomas High School showed an average math score of 83.35, average reading score of 83.89, % passsing math at 66.91, % passing reading at 69.66, and an overall passing % of 65.07. Afterwards, we see very different numbers with Thomas High School with an average math score at 83.41, reading score at 83.85, % passing math at 93.27, % passing reading 97.30, and overall 90.95%.
+When we bin our schools, we find that the schools who spend more money do not necessarily have higher scores or passing rates for their students. However, school size and type do show a correlation. Small and medium size schools have very similar student passing rates while schools with more students average a lot lower in scores. Lastly, charter schools have a much higher passing percentage than district schools.
 
-Four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High school have been replaces with NaNs.
 
 
 
