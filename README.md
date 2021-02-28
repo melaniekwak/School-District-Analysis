@@ -20,22 +20,22 @@ How does replacing the ninth graders' math and reading scores affect Thomas High
 ![ths9](ths_9-12.png)
 ![ths10](ths_10-12.png)
 
-**How does replacing 9th grade scores affect the following:
+**How does replacing 9th grade scores affect the following:**
 
-**math and reading scores by grade
+**math and reading scores by grade**
 
 ![mathbygrade](math_grade.png)
 ![readingbygrade](reading_grade.png)
 
-**Scores by school spending
+**Scores by school spending**
 
 ![scoresbyspending](scores_spending.png)
 
-**Scores by school size
+**Scores by school size**
 
 ![scoresbysize](scores_size.png)
 
-**Scores by school type
+**Scores by school type**
 
 ![scoresbytype](scores_type.png)
 
