@@ -8,7 +8,7 @@ With the given data in pycityschools, we are expected to analyze the data withou
 **Results**
 How is the District Summary affected:
 
-![DS](district_sammary.png)
+![DS](district_summary.png)
 
 How is the School Summmary affected:
 
