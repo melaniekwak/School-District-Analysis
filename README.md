@@ -7,31 +7,36 @@ With the given data in pycityschools, we are expected to analyze the data withou
 
 #Results
 How is the District Summary affected:
+
 ![DS](district_sammary.png)
 
 How is the School Summmary affected:
-![school1](school_summary_1.png)
 
+![school1](school_summary_1.png)
 ![school2](school_summary_2.png)
 
 How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
-![ths9](ths_9-12.png)
 
+![ths9](ths_9-12.png)
 ![ths10](ths_10-12.png)
 
 #How does replacing 9th grade scores affect the following:
 
 #math and reading scores by grade
+
 ![mathbygrade](math_grade.png)
 ![readingbygrade](reading_grade.png)
 
 #Scores by school spending
+
 ![scoresbyspending](scores_spending.png)
 
 #Scores by school size
+
 ![scoresbysize](scores_size.png)
 
 #Scores by school type
+
 ![scoresbytype](scores_type.png)
 
 #Summary
